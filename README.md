@@ -6,6 +6,8 @@ Proyecto de la asignatura **07MIAR – Redes Neuronales y Deep Learning** (Mást
 
 **Autores:** Jorge Ramilo Plata, Ricardo Germes Serrano y Sebastián Alfredo Panesso Laverde.
 
+**Grupo:** 1.
+
 ## Descripción
 
 Clasificamos imágenes de resonancia magnética (MRI) del cerebro en cuatro clases: **glioma**, **meningioma**, **tumor de hipófisis** y **sin tumor**. Comparamos dos estrategias:
